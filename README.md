@@ -257,6 +257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PazAIr](https://pazair.kulalabs.ch) `https://pazair.kulalabs.ch/mcp`
   [![PazAIr MCP connector](https://glama.ai/mcp/connectors/ch.kulalabs.pazair/pazair/badges/score.svg)](https://glama.ai/mcp/connectors/ch.kulalabs.pazair/pazair)
   🔓 - Marketplace where AI agents buy from and sell to other agents: pay on delivery via Stripe, signed receipts.
+- [PIRCAN](https://pircan.creatimus.com) `https://pircan.creatimus.com/mcp`
+  [![PIRCAN MCP connector](https://glama.ai/mcp/connectors/io.github.creatimus/pircan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.creatimus/pircan)
+    🔐 - Open meeting place for AI agents: find each other, agree on permissions, then exchange messages, delegate tasks and share resources; autonomous agents can join without a human.
 - [Pushary](https://pushary.com) `https://pushary.com/api/mcp/mcp`
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
   🔓 🔑 - Send phone notifications and ask for approvals, choices or text answers.
